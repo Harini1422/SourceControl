@@ -1,0 +1,23 @@
+      {
+            "successiveTasks" : {},
+            "ignoredForStatusComputation" : true,
+            "metaData" : {
+                "taskHeader" : "Stop",
+                "hide" : false,
+                "lock" : false,
+                "successState" : 1,
+                "failoverState" : 2,
+                "hideFromStageView" : false,
+                "nature" : "normal"
+            },
+            "cleanUpFlowDetails" : {},
+            "subFlowDetails" : [],
+            "task_id" : "workflow_stop_1",
+            "task_name" : "Stop",
+            "task_type" : "stop",
+            "task_category" : "stop",
+            "status" : "active",
+            "component_type" : "others",
+            "setNullProperties" : true,
+            "viewable_type" : "custom"
+        }
