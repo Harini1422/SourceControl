@@ -1,0 +1,14 @@
+{
+  "attachByFiles" : null,
+  "versioningAttachmentId" : null,
+  "_id" : "5f245dd0cc69520dfcc600d7",
+  "workflowName" : "YAML_ansible unique",
+  "workflowVersionName" : "master2020-07-31T23:37:11.274",
+  "source" : null,
+  "description" : null,
+  "createdBy" : "admin",
+  "lastModifiedTime" : 1596218832303,
+  "activeForRequest" : false,
+  "activeForInventory" : false,
+  "protectedVersion" : false
+}
