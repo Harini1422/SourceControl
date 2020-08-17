@@ -1,7 +1,7 @@
 {
   "parentMD5CheckSumRef" : null,
   "workflowName" : "Magic variables",
-  "createdTime" : 1597698912785,
+  "createdTime" : 1597702762773,
   "aclIdentifiers" : null,
   "accessType" : null,
   "firstTaskId" : null,
@@ -466,14 +466,14 @@
     } ]
   },
   "defaultGlobalData" : null,
-  "lastUpdatedTime" : 1597698912785,
+  "lastUpdatedTime" : 1597702762773,
   "sourceControlSettings" : {
-    "committed" : true,
-    "pendingForPushAction" : true,
+    "committed" : false,
+    "pendingForPushAction" : false,
     "pushActionCompleted" : false,
     "enabledForRemoteRepository" : true
   },
-  "_id" : "5f3af3606a3c06421800d5c1",
+  "_id" : "5f3b026a77644d2c5f4dc455",
   "description" : "",
   "created_by" : "admin",
   "status" : "Disabled",
@@ -481,7 +481,7 @@
   "workflowCategory" : "Default",
   "workflowRegexes" : null,
   "requestRegexes" : null,
-  "workflowVersion" : "master2020-08-13T15:55:58.949",
-  "activeForRequest" : true,
-  "activeForInventory" : true
+  "workflowVersion" : "master2020-08-13T15:55:58.9492020-08-17T22:19:22.647",
+  "activeForRequest" : false,
+  "activeForInventory" : false
 }
