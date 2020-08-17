@@ -1,7 +1,7 @@
 [ {
   "workflowName" : "YAML_ansible unique",
   "workflowType" : "Default",
-  "workflowVersion" : "master",
+  "workflowVersion" : "master2020-07-31T23:37:11.2742020-08-17T22:53:43.202",
   "varKeyList" : [ {
     "name" : "Ticket Number",
     "key" : "ticketNumber",
@@ -10,76 +10,6 @@
     "parentSubFlowID" : null,
     "subFlowID" : "WpPAJncW",
     "taskId" : null,
-    "dataType" : null,
-    "destinationTasks" : [ ]
-  }, {
-    "name" : "d",
-    "key" : "d",
-    "value" : "d",
-    "variableType" : "global",
-    "parentSubFlowID" : null,
-    "subFlowID" : "WpPAJncW",
-    "taskId" : "yamljson_1",
-    "dataType" : null,
-    "destinationTasks" : [ ]
-  }, {
-    "name" : "Request Creator",
-    "key" : "requestCreator",
-    "value" : "requestCreator",
-    "variableType" : "default",
-    "parentSubFlowID" : null,
-    "subFlowID" : "WpPAJncW",
-    "taskId" : null,
-    "dataType" : null,
-    "destinationTasks" : [ ]
-  }, {
-    "name" : "f",
-    "key" : "f",
-    "value" : "f",
-    "variableType" : "global",
-    "parentSubFlowID" : null,
-    "subFlowID" : "WpPAJncW",
-    "taskId" : "yamljson_1",
-    "dataType" : null,
-    "destinationTasks" : [ ]
-  }, {
-    "name" : "Task State",
-    "key" : "taskState",
-    "value" : "taskState",
-    "variableType" : "default",
-    "parentSubFlowID" : null,
-    "subFlowID" : "WpPAJncW",
-    "taskId" : null,
-    "dataType" : null,
-    "destinationTasks" : [ ]
-  }, {
-    "name" : "Scheduled By",
-    "key" : "scheduledBy",
-    "value" : "scheduledBy",
-    "variableType" : "default",
-    "parentSubFlowID" : null,
-    "subFlowID" : "WpPAJncW",
-    "taskId" : null,
-    "dataType" : null,
-    "destinationTasks" : [ ]
-  }, {
-    "name" : "b",
-    "key" : "b",
-    "value" : "b",
-    "variableType" : "global",
-    "parentSubFlowID" : null,
-    "subFlowID" : "WpPAJncW",
-    "taskId" : "yamljson_1",
-    "dataType" : null,
-    "destinationTasks" : [ ]
-  }, {
-    "name" : "e",
-    "key" : "e",
-    "value" : "e",
-    "variableType" : "global",
-    "parentSubFlowID" : null,
-    "subFlowID" : "WpPAJncW",
-    "taskId" : "yamljson_1",
     "dataType" : null,
     "destinationTasks" : [ ]
   }, {
@@ -105,7 +35,7 @@
   }, {
     "name" : "type",
     "key" : "type",
-    "value" : "type",
+    "value" : null,
     "variableType" : "global",
     "parentSubFlowID" : null,
     "subFlowID" : "WpPAJncW",
@@ -123,19 +53,39 @@
     "dataType" : null,
     "destinationTasks" : [ ]
   }, {
-    "name" : "c",
-    "key" : "c",
-    "value" : "c",
-    "variableType" : "global",
+    "name" : "Request Creator",
+    "key" : "requestCreator",
+    "value" : "requestCreator",
+    "variableType" : "default",
     "parentSubFlowID" : null,
     "subFlowID" : "WpPAJncW",
-    "taskId" : "yamljson_1",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Task State",
+    "key" : "taskState",
+    "value" : "taskState",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Scheduled By",
+    "key" : "scheduledBy",
+    "value" : "scheduledBy",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : null,
     "dataType" : null,
     "destinationTasks" : [ ]
   }, {
     "name" : "editorContent",
     "key" : "editorContent",
-    "value" : "editorContent",
+    "value" : null,
     "variableType" : "global",
     "parentSubFlowID" : null,
     "subFlowID" : "WpPAJncW",
@@ -153,16 +103,6 @@
       "parentSubFlowID" : null
     } ]
   }, {
-    "name" : "a",
-    "key" : "a",
-    "value" : "a",
-    "variableType" : "global",
-    "parentSubFlowID" : null,
-    "subFlowID" : "WpPAJncW",
-    "taskId" : "yamljson_1",
-    "dataType" : null,
-    "destinationTasks" : [ ]
-  }, {
     "name" : "Request Id",
     "key" : "requestId",
     "value" : "requestId",
@@ -176,7 +116,7 @@
 }, {
   "workflowName" : "YAML_ansible unique",
   "workflowType" : "Rollback",
-  "workflowVersion" : "master",
+  "workflowVersion" : "master2020-07-31T23:37:11.2742020-08-17T22:53:43.202",
   "varKeyList" : [ {
     "name" : "Workflow Name",
     "key" : "workflowName",
@@ -228,6 +168,16 @@
     "dataType" : null,
     "destinationTasks" : [ ]
   }, {
+    "name" : "Request State",
+    "key" : "requestState",
+    "value" : "requestState",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WetFX9aV",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
     "name" : "Task State",
     "key" : "taskState",
     "value" : "taskState",
@@ -238,9 +188,199 @@
     "dataType" : null,
     "destinationTasks" : [ ]
   }, {
+    "name" : "Ticket Number",
+    "key" : "ticketNumber",
+    "value" : "ticketNumber",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WetFX9aV",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  } ]
+}, {
+  "workflowName" : "YAML_ansible unique",
+  "workflowType" : "Default",
+  "workflowVersion" : "master2020-07-31T23:37:11.2742020-08-17T22:53:43.202",
+  "varKeyList" : [ {
+    "name" : "Ticket Number",
+    "key" : "ticketNumber",
+    "value" : "ticketNumber",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Workflow Name",
+    "key" : "workflowName",
+    "value" : "workflowName",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Loggedin User Name",
+    "key" : "loggedInUsername",
+    "value" : "loggedInUsername",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "type",
+    "key" : "type",
+    "value" : null,
+    "variableType" : "global",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : "yamljson_1",
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
     "name" : "Request State",
     "key" : "requestState",
     "value" : "requestState",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Request Creator",
+    "key" : "requestCreator",
+    "value" : "requestCreator",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Task State",
+    "key" : "taskState",
+    "value" : "taskState",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Scheduled By",
+    "key" : "scheduledBy",
+    "value" : "scheduledBy",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "editorContent",
+    "key" : "editorContent",
+    "value" : null,
+    "variableType" : "global",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : "yamljson_1",
+    "dataType" : null,
+    "destinationTasks" : [ {
+      "taskId" : "ansible_1",
+      "taskName" : null,
+      "variableType" : null,
+      "flowName" : null,
+      "workFlowType" : "Default",
+      "subFlowType" : null,
+      "selected" : false,
+      "subFlowID" : "WpPAJncW",
+      "parentSubFlowID" : null
+    } ]
+  }, {
+    "name" : "Request Id",
+    "key" : "requestId",
+    "value" : "requestId",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WpPAJncW",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  } ]
+}, {
+  "workflowName" : "YAML_ansible unique",
+  "workflowType" : "Rollback",
+  "workflowVersion" : "master2020-07-31T23:37:11.2742020-08-17T22:53:43.202",
+  "varKeyList" : [ {
+    "name" : "Workflow Name",
+    "key" : "workflowName",
+    "value" : "workflowName",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WetFX9aV",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Request Id",
+    "key" : "requestId",
+    "value" : "requestId",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WetFX9aV",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Scheduled By",
+    "key" : "scheduledBy",
+    "value" : "scheduledBy",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WetFX9aV",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Loggedin User Name",
+    "key" : "loggedInUsername",
+    "value" : "loggedInUsername",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WetFX9aV",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Request Creator",
+    "key" : "requestCreator",
+    "value" : "requestCreator",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WetFX9aV",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Request State",
+    "key" : "requestState",
+    "value" : "requestState",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "WetFX9aV",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Task State",
+    "key" : "taskState",
+    "value" : "taskState",
     "variableType" : "default",
     "parentSubFlowID" : null,
     "subFlowID" : "WetFX9aV",
