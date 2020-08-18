@@ -1,0 +1,14 @@
+{
+  "attachByFiles" : null,
+  "versioningAttachmentId" : null,
+  "_id" : "5f3afb426a3c06421800d5d8",
+  "workflowName" : "validate pseudo form",
+  "workflowVersionName" : "master",
+  "source" : "master",
+  "description" : null,
+  "createdBy" : "admin",
+  "lastModifiedTime" : 1597700930068,
+  "activeForRequest" : true,
+  "activeForInventory" : true,
+  "protectedVersion" : true
+}

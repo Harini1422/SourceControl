@@ -1,0 +1,191 @@
+[ {
+  "workflowName" : "validate pseudo form",
+  "workflowType" : "Default",
+  "workflowVersion" : "master",
+  "varKeyList" : [ {
+    "name" : "Ticket Number",
+    "key" : "ticketNumber",
+    "value" : "ticketNumber",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "cNrsDP6o",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Loggedin User Name",
+    "key" : "loggedInUsername",
+    "value" : "loggedInUsername",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "cNrsDP6o",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Scheduled By",
+    "key" : "scheduledBy",
+    "value" : "scheduledBy",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "cNrsDP6o",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Task State",
+    "key" : "taskState",
+    "value" : "taskState",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "cNrsDP6o",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Request Creator",
+    "key" : "requestCreator",
+    "value" : "requestCreator",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "cNrsDP6o",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "SysID",
+    "key" : "SysID",
+    "value" : "result.sys_id",
+    "variableType" : "global",
+    "parentSubFlowID" : null,
+    "subFlowID" : "cNrsDP6o",
+    "taskId" : "servicenow_create_change_2_1_1_2_2_1_3_1_1_1",
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Request State",
+    "key" : "requestState",
+    "value" : "requestState",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "cNrsDP6o",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Workflow Name",
+    "key" : "workflowName",
+    "value" : "workflowName",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "cNrsDP6o",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Change ID",
+    "key" : "Change ID",
+    "value" : "result.number",
+    "variableType" : "global",
+    "parentSubFlowID" : null,
+    "subFlowID" : "cNrsDP6o",
+    "taskId" : "servicenow_create_change_2_1_1_2_2_1_3_1_1_1",
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Request Id",
+    "key" : "requestId",
+    "value" : "requestId",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "cNrsDP6o",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  } ]
+}, {
+  "workflowName" : "validate pseudo form",
+  "workflowType" : "Rollback",
+  "workflowVersion" : "master",
+  "varKeyList" : [ {
+    "name" : "Loggedin User Name",
+    "key" : "loggedInUsername",
+    "value" : "loggedInUsername",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "dixsRrEv",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Request Id",
+    "key" : "requestId",
+    "value" : "requestId",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "dixsRrEv",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Request Creator",
+    "key" : "requestCreator",
+    "value" : "requestCreator",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "dixsRrEv",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Request State",
+    "key" : "requestState",
+    "value" : "requestState",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "dixsRrEv",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Scheduled By",
+    "key" : "scheduledBy",
+    "value" : "scheduledBy",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "dixsRrEv",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Task State",
+    "key" : "taskState",
+    "value" : "taskState",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "dixsRrEv",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Workflow Name",
+    "key" : "workflowName",
+    "value" : "workflowName",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "dixsRrEv",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  }, {
+    "name" : "Ticket Number",
+    "key" : "ticketNumber",
+    "value" : "ticketNumber",
+    "variableType" : "default",
+    "parentSubFlowID" : null,
+    "subFlowID" : "dixsRrEv",
+    "taskId" : null,
+    "dataType" : null,
+    "destinationTasks" : [ ]
+  } ]
+} ]
