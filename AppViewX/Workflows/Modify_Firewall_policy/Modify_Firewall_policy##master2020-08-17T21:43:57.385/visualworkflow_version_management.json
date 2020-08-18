@@ -1,0 +1,14 @@
+{
+  "attachByFiles" : null,
+  "versioningAttachmentId" : null,
+  "_id" : "5f3afa1dd2dc692a02717feb",
+  "workflowName" : "Modify_Firewall_policy",
+  "workflowVersionName" : "master2020-08-17T21:43:57.385",
+  "source" : "master",
+  "description" : null,
+  "createdBy" : "admin",
+  "lastModifiedTime" : 1597700637406,
+  "activeForRequest" : false,
+  "activeForInventory" : false,
+  "protectedVersion" : false
+}
