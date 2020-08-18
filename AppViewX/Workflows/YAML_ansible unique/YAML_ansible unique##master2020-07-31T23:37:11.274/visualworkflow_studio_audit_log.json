@@ -4078,4 +4078,20 @@
   "name" : null,
   "referenceId" : null,
   "_keywords" : [ "workflow", "1", "Workflow imported. Old workflow name YAML_ansible unique##master ,Imported workflow name YAML_ansible unique", "admin" ]
+}, {
+  "time" : 1597704869209,
+  "message" : "Workflow imported. Old workflow name YAML_ansible unique##master ,Imported workflow name YAML_ansible unique",
+  "priority" : 1,
+  "type" : "workflow",
+  "user" : "admin",
+  "data" : null,
+  "category" : null,
+  "subCategory" : null,
+  "requestId" : null,
+  "requestType" : null,
+  "workflowName" : "YAML_ansible unique",
+  "workflowVersion" : "master",
+  "name" : null,
+  "referenceId" : null,
+  "_keywords" : [ "workflow", "1", "Workflow imported. Old workflow name YAML_ansible unique##master ,Imported workflow name YAML_ansible unique", "admin" ]
 } ]

@@ -1,7 +1,7 @@
 {
   "parentMD5CheckSumRef" : null,
   "workflowName" : "YAML_ansible unique",
-  "createdTime" : 1597704868869,
+  "createdTime" : 1597679955345,
   "aclIdentifiers" : null,
   "accessType" : null,
   "firstTaskId" : null,
@@ -370,14 +370,14 @@
     } ]
   },
   "defaultGlobalData" : null,
-  "lastUpdatedTime" : 1597704868869,
+  "lastUpdatedTime" : 1597679955345,
   "sourceControlSettings" : {
-    "committed" : false,
-    "pendingForPushAction" : false,
+    "committed" : true,
+    "pendingForPushAction" : true,
     "pushActionCompleted" : false,
     "enabledForRemoteRepository" : true
   },
-  "_id" : "5f3b0aa442c1065c7070a1f7",
+  "_id" : "5f3aa953acda3b095e2f12ce",
   "description" : "",
   "created_by" : "admin",
   "status" : "Disabled",
@@ -385,7 +385,7 @@
   "workflowCategory" : "Default",
   "workflowRegexes" : null,
   "requestRegexes" : null,
-  "workflowVersion" : "master2020-07-31T23:37:11.274",
+  "workflowVersion" : "master2020-07-31T23:37:11.2742020-08-17T15:59:15.329",
   "activeForRequest" : false,
   "activeForInventory" : false
 }

@@ -1,7 +1,7 @@
 [ {
   "workflowName" : "YAML_ansible unique",
   "workflowType" : "Default",
-  "workflowVersion" : "master",
+  "workflowVersion" : "master2020-08-17T16:08:57.985",
   "varKeyList" : [ {
     "name" : "Ticket Number",
     "key" : "ticketNumber",
@@ -176,7 +176,7 @@
 }, {
   "workflowName" : "YAML_ansible unique",
   "workflowType" : "Rollback",
-  "workflowVersion" : "master",
+  "workflowVersion" : "master2020-08-17T16:08:57.985",
   "varKeyList" : [ {
     "name" : "Workflow Name",
     "key" : "workflowName",
