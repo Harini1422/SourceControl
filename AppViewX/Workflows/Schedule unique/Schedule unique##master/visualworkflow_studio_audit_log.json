@@ -862,4 +862,20 @@
   "name" : null,
   "referenceId" : null,
   "_keywords" : [ "workflow", "1", "Workflow imported. Old workflow name Schedule unique##master ,Imported workflow name Schedule unique", "admin" ]
+}, {
+  "time" : 1597857734110,
+  "message" : "Workflow imported. Old workflow name Schedule unique##master ,Imported workflow name Schedule unique",
+  "priority" : 1,
+  "type" : "workflow",
+  "user" : "admin",
+  "data" : null,
+  "category" : null,
+  "subCategory" : null,
+  "requestId" : null,
+  "requestType" : null,
+  "workflowName" : "Schedule unique",
+  "workflowVersion" : "master",
+  "name" : null,
+  "referenceId" : null,
+  "_keywords" : [ "workflow", "1", "Workflow imported. Old workflow name Schedule unique##master ,Imported workflow name Schedule unique", "admin" ]
 } ]

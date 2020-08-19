@@ -2,7 +2,6 @@
   "workflowName" : "Schedule unique",
   "workflowType" : "Rollback",
   "workflowVersion" : "master",
-  "id" : "5f20318eb72bb92eea77f249",
   "varKeyList" : [ {
     "name" : "Loggedin User Name",
     "key" : "loggedInUsername",
@@ -88,7 +87,6 @@
   "workflowName" : "Schedule unique",
   "workflowType" : "Default",
   "workflowVersion" : "master",
-  "id" : "5f20318eb72bb92eea77f24a",
   "varKeyList" : [ {
     "name" : "Scheduled By",
     "key" : "scheduledBy",
@@ -174,7 +172,6 @@
   "workflowName" : "Schedule unique",
   "workflowType" : "Rollback",
   "workflowVersion" : "master",
-  "id" : "5f2031d8b72bb92eea77f346",
   "varKeyList" : [ {
     "name" : "Loggedin User Name",
     "key" : "loggedInUsername",
@@ -260,7 +257,6 @@
   "workflowName" : "Schedule unique",
   "workflowType" : "Default",
   "workflowVersion" : "master",
-  "id" : "5f2031d8b72bb92eea77f347",
   "varKeyList" : [ {
     "name" : "Scheduled By",
     "key" : "scheduledBy",
