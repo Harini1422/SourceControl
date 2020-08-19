@@ -1,0 +1,14 @@
+{
+  "attachByFiles" : [ ],
+  "versioningAttachmentId" : "GROUP DEPENDS ON_0.16646061715376836",
+  "_id" : "5f3d48c2825b5a7ab98199cb",
+  "workflowName" : "GROUP DEPENDS ON",
+  "workflowVersionName" : "two groups inside one group",
+  "source" : "master",
+  "description" : "",
+  "createdBy" : "admin",
+  "lastModifiedTime" : 1597851842794,
+  "activeForRequest" : true,
+  "activeForInventory" : false,
+  "protectedVersion" : true
+}
