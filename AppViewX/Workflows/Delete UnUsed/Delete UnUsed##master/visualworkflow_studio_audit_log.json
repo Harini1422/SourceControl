@@ -14,4 +14,20 @@
   "name" : null,
   "referenceId" : null,
   "_keywords" : null
+}, {
+  "time" : 1597905879156,
+  "message" : "Workflow imported. Old workflow name Delete UnUsed##master ,Imported workflow name Delete UnUsed",
+  "priority" : 1,
+  "type" : "workflow",
+  "user" : "admin",
+  "data" : null,
+  "category" : null,
+  "subCategory" : null,
+  "requestId" : null,
+  "requestType" : null,
+  "workflowName" : "Delete UnUsed",
+  "workflowVersion" : "master",
+  "name" : null,
+  "referenceId" : null,
+  "_keywords" : [ "workflow", "1", "Workflow imported. Old workflow name Delete UnUsed##master ,Imported workflow name Delete UnUsed", "admin" ]
 } ]
