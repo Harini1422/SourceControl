@@ -1390,4 +1390,20 @@
   "name" : null,
   "referenceId" : null,
   "_keywords" : [ "workflow", "1", "Workflow imported. Old workflow name Ticket chain unique##master ,Imported workflow name Ticket chain unique", "admin" ]
+}, {
+  "time" : 1597905879544,
+  "message" : "Workflow imported. Old workflow name Ticket chain unique##master ,Imported workflow name Ticket chain unique",
+  "priority" : 1,
+  "type" : "workflow",
+  "user" : "admin",
+  "data" : null,
+  "category" : null,
+  "subCategory" : null,
+  "requestId" : null,
+  "requestType" : null,
+  "workflowName" : "Ticket chain unique",
+  "workflowVersion" : "master",
+  "name" : null,
+  "referenceId" : null,
+  "_keywords" : [ "workflow", "1", "Workflow imported. Old workflow name Ticket chain unique##master ,Imported workflow name Ticket chain unique", "admin" ]
 } ]
